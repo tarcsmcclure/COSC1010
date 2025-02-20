@@ -14,13 +14,13 @@ width2 = 0
 length1 = int(input('Enter the length of rectangle 1: '))
 
 # Get width A
-width1= int(input('Enter the width of rectangle 1: "))
+width1= int(input('Enter the width of rectangle 1: '))
 
 # Get length B
 length2 = int(input('Enter the length of rectangle 2: '))
 
 # Get width B
-width1= int(input('Enter the width of rectangle 2: "))
+width2= int(input('Enter the width of rectangle 2: '))
 
 # Calculate area A
 area1 = length1 * width1
